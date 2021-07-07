@@ -1,6 +1,8 @@
 # A-Path-Finder-Visualizer
 Draw obstacles, move the starting and target nodes, and watch the A* path finder try to find the optimal path!
 
+![](A-Star.gif)
+
 A Java program that utilizes awt and swing toolkits to display a simple graphical user interface.
 
 At the top of the application are JButtons: "Start", "Reset"
