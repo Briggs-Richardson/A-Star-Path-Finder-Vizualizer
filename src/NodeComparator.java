@@ -2,8 +2,6 @@
   nodes by considering their f_cost values. Custom comparator for the
   priority queue data structure (min heap -> lowest f_cost on top) */
 
-package main.java;
-
 import java.util.Comparator;
 
 public class NodeComparator implements Comparator<Node> {

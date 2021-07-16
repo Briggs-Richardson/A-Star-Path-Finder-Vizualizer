@@ -4,8 +4,6 @@
    will (when clicked on) call the Grid's runAglorithm and reset functions
 */
 
-package main.java;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
 import java.awt.Dimension;

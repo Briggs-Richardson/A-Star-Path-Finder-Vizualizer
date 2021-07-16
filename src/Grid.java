@@ -7,8 +7,6 @@
     the process (iterations) of the A* algorithm (on a swingworker thread)
  */
 
-package main.java;
-
 import javax.swing.*;
 import java.awt.Dimension;
 import java.awt.Graphics;

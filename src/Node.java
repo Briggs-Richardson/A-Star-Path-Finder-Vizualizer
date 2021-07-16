@@ -7,8 +7,6 @@
      The Node class will be used to store open / closed sites on a graph
  */
 
-package main.java;
-
 public class Node {
     private int x, y;     // 2D coordinates on the Grid (Customized JPanel)
     private int gCost;    // Distance from starting Node

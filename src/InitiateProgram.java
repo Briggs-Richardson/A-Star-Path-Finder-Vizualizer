@@ -5,8 +5,6 @@
    the GUI and handle all user events until the program is closed.
  */
 
-package main.java;
-
 public class InitiateProgram {
     public static void main(String[] args) {
         new GUIManager();

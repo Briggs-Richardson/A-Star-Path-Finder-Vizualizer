@@ -1,7 +1,5 @@
 /* Handles the logic of the A* algorithm. */
 
-package main.java;
-
 import java.util.PriorityQueue;
 import java.util.Set;
 import java.util.HashSet;

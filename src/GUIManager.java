@@ -4,8 +4,6 @@
    a GUISettings object (custom JPanel for starting and resetting the visualization)
 */
 
-package main.java;
-
 import javax.swing.SwingUtilities;
 import javax.swing.JFrame;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
